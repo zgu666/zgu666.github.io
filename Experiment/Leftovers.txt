@@ -1,0 +1,10 @@
+i. sms.xml
+代码有误，应该删除
+</LinearLayout>
+<WebView
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:id="@+id/webView"></WebView>
+
+
+</LinearLayout>    <WebView android:layout_width="match_parent" android:layout_height="match_parent" android:id="@+id/webView"></WebView>
